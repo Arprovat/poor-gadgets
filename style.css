@@ -1,0 +1,68 @@
+.frist img{
+    width: 60px;
+
+}
+ .frist{
+    height: 76px;
+    background-color: rgb(245, 241, 241);
+    position: sticky;
+}
+.frist ul li a{
+    color:rgb(8, 7, 7);
+    font-size: 18px;
+}
+.shit { background-image: url("poor-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position-x: 0;
+    width: 100%;
+    margin: 50px 0px;
+  height: 386px;
+  box-sizing: border-box;
+}
+.shit1{
+    background-image: url("poor-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center ;
+    /* box-sizing: 333px; */
+    /* height: 300px; */
+}
+.button{
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: indianred;
+}
+.shit1 p{
+ font-size: 17px;
+ padding: 10px 0px;
+ /* height: 500px; */
+}
+.card img {
+    width: 100%;
+}
+.card1{
+    padding: 100px 0px;
+}
+.more{
+    background-color: lightcoral;
+    border-radius: 10px;
+    width: 70px;
+}
+.big img{
+width: 100%;
+}
+.small img{
+    width: 45%;
+    background-color:whitesmoke;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.ox{
+    text-align: center;
+    border-bottom: 5px solid yellowgreen;
+    margin-bottom: 30px;
+    border-right-color: yellow;
+    border-right-color: chartreuse;
+    
+}
